@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Suvarnsing Rajput</h1>
-<h3 align="center">I am an enthusiastic computer science student on a mission to become a full-stack developer. My journey in the world of technology began with a genuine curiosity and a thirst for knowledge</h3>
+<h3 align="center">I am an enthusiastic computer science student on a mission to become a full-stack developer. My journey in the world of technology began with a genuine curiosity and a thirst for knowledge....</h3>
 
 - 🔭 I’m currently working on **Human Screme Detection**
 
@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="[https://linkedin.com/in/suvarnsing rajput](https://www.linkedin.com/in/suvarnsing-rajput-45300424a/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="suvarnsing rajput" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/suvarnsing-rajput-45300424a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/suvarnsing-rajput-45300424a/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
